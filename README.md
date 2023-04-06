@@ -3,14 +3,6 @@
   <h1>Blood Bank</h1>
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Build Status](https://travis-ci.com/rishav394/bloodbank.svg?token=nxairHVBeKGrCQKnMdVR&branch=master)](https://travis-ci.com/rishav394/bloodbank)
-![GitHub package.json version](https://img.shields.io/github/package-json/v/rishav394/bloodbank)
-![GitHub last commit](https://img.shields.io/github/last-commit/rishav394/bloodbank)
-![GitHub repo size](https://img.shields.io/github/repo-size/rishav394/bloodbank)
-![GitHub language count](https://img.shields.io/github/languages/count/rishav394/bloodbank)
-[![HitCount](http://hits.dwyl.com/rishav394/bloodbank.svg)](http://hits.dwyl.com/rishav394/bloodbank)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 This is a simple Blood Bank Web Application I made for my assigment. Uses Node JS and MongoDB primarily.
 
@@ -45,7 +37,7 @@ These instructions will get you a copy of the project up and running on your loc
 Clone the repo and install the dependencies.
 
 ```bash
-git clone https://github.com/rishav394/bloodbank.git
+git clone https://github.com/amrit189/BloodBank.git
 cd bloodbank-master
 ```
 
@@ -94,9 +86,9 @@ Make changes in `.env`
 
 ## ✍️ Authors
 
-[@rishav394](https://github.com/rishav394) - Initial work
+[@amrit189](https://github.com/amrit189) - Initial work
 
-See also the list of [contributors](https://github.com/rishav394/bloodbank/graphs/contributors) who participated in this project.
+<!-- See also the list of [contributors](https://github.com/rishav394/bloodbank/graphs/contributors) who participated in this project. -->
 
 ## 🎉 Acknowledgements
 
